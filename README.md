@@ -11,7 +11,6 @@
 * Geld
 * Handy
 * Schlüssel
-* Adapter
 * Block
 * Stift
 
@@ -20,6 +19,7 @@
 * Reisepass
 * Personalausweis
 * Visa/Esta
+* Adapter
 
 ## Code Review
 
